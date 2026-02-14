@@ -1,0 +1,7 @@
+cache/
+data/
+venv/
+*.pkl
+*.db
+*.faiss
+*.npy
